@@ -1,0 +1,20 @@
+/* Design N Build Excellence: brand tokens (BAM contract 1.6).
+   Every line cites where its value came from. Status per token is in locked.json. */
+:root {
+  --brand-paper: #FFFFFF;          /* Plaster. source: brand/sources/figma/p13-colour-primary.png (HEX #FFFFFF); role: brand/sources/figma/p15-colour-usage-hierarchy.png ("led by Lilac and Plaster") */
+  --brand-ink: #262626;            /* Charcoal. source: brand/sources/figma/p13-colour-primary.png (HEX #262626); role chosen by the owner at intake (brand/intake.log.md) */
+  --brand-accent: #BA9ED1;         /* Lilac. source: brand/sources/figma/p13-colour-primary.png (HEX #BA9ED1); role: brand/sources/figma/p15-colour-usage-hierarchy.png (Lilac 30%, the lead colour) */
+  --brand-accent-ink: #262626;     /* Charcoal on Lilac, 6.41:1. chosen by the owner at intake (brand/intake.log.md) */
+  --brand-muted: #393939;          /* Graphite. source: brand/sources/figma/p13-colour-primary.png (HEX #393939); role: brand/sources/figma/page3-text.md ("Charcoal and Graphite establish contrast and structure across typography") */
+  --brand-accent-2: #FF875F;       /* Apricot. source: brand/sources/figma/p13-colour-primary.png (HEX #FF875F); 10% in brand/sources/figma/p15-colour-usage-hierarchy.png */
+  --brand-accent-3: #FDD97E;       /* Marigold. source: brand/sources/figma/p13-colour-primary.png (HEX #FDD97E); 8% in brand/sources/figma/p15-colour-usage-hierarchy.png */
+  --brand-accent-4: #E8F3F4;       /* Porcelain. source: brand/sources/figma/p13-colour-primary.png (HEX #E8F3F4) */
+  --brand-accent-5: #FFDCDC;       /* Clay. source: brand/sources/figma/p13-colour-primary.png (HEX #FFDCDC) */
+  --brand-font-display: "Archivo", "Helvetica Neue", Arial, sans-serif;   /* source: brand/sources/figma/p18-type-archivo.png ("Archivo ... primary typeface") */
+  --brand-font-body: "DM Sans", "Helvetica Neue", Arial, sans-serif;      /* source: brand/sources/figma/page3-text.md ("DM Sans is selected as the secondary typeface") */
+  --brand-weight-display: 700;     /* source: brand/sources/figma/p20-type-hierarchy.png ("Large Heading 96pt Archivo Bold") */
+  --brand-weight-body: 300;        /* source: brand/sources/figma/p20-type-hierarchy.png ("Body 24pt DM Sans Light") */
+  --brand-weight-label: 400;       /* source: brand/sources/figma/p20-type-hierarchy.png ("Eyebrow text 20pt DM Sans Regular") */
+  --brand-tracking-display: 0em;   /* we guessed: the guide gives no tracking; brand/sources/figma/p20-type-hierarchy.png shows headlines at normal spacing */
+  --brand-radius: 0px;             /* we guessed: the guide gives no corner radius; logo and colour blocks are square in brand/sources/figma/p09-logo-variations.png */
+}

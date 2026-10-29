@@ -1,0 +1,7 @@
+/* Design N Build Excellence fonts. Files live in brand/fonts/ (download them: see brand/fonts.md). */
+/* source: brand/sources/figma/p20-type-hierarchy.png, https://fonts.google.com/specimen/Archivo */
+@font-face { font-family: "Archivo"; src: url("fonts/Archivo-Medium.ttf") format("truetype"); font-weight: 500; font-style: normal; font-display: block; } /* Small Heading 40pt Archivo Medium */
+@font-face { font-family: "Archivo"; src: url("fonts/Archivo-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: block; }   /* Large Heading 96pt Archivo Bold */
+/* source: brand/sources/figma/p20-type-hierarchy.png, https://fonts.google.com/specimen/DM+Sans */
+@font-face { font-family: "DM Sans"; src: url("fonts/DMSans-Light.ttf") format("truetype"); font-weight: 300; font-style: normal; font-display: block; }   /* Body 24pt / Subtext 16pt DM Sans Light */
+@font-face { font-family: "DM Sans"; src: url("fonts/DMSans-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; } /* Eyebrow text 20pt DM Sans Regular */

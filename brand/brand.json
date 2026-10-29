@@ -1,0 +1,17 @@
+{
+  "contractVersion": "1.6",
+  "name": "Design & Build Excellence",
+  "nameSource": "brand/sources/figma/page3-text.md (about text: \"Design & Build Excellence is an interior design institute ...\")",
+  "wordmark": "DESIGNNBUILD EXCELLENCE PVT LTD",
+  "wordmarkStatus": "derived",
+  "wordmarkSource": "brand/sources/figma/p09-logo-variations.png (horizontal and vertical lockups); casing as rendered in the lockup. The guide also writes \"DESIGN N BUILD EXCELLENCE\" (cover) and \"Design & Build Excellence\" (about): the owner has not said which a post should use",
+  "descriptor": "INTERIOR DESIGN INSTITUTE",
+  "descriptorSource": "brand/sources/figma/p17-background-colours.png",
+  "logo": "brand/assets/logo.svg",
+  "logoSource": "brand/sources/figma/logo/logo-mark-graphite.svg",
+  "logoReversed": "brand/assets/logo-reversed.svg",
+  "logoReversedSource": "brand/sources/figma/logo/logo-mark-colour-on-charcoal.svg",
+  "platforms": ["1:1", "4:5", "9:16"],
+  "platformsStatus": "derived",
+  "platformsSource": "intake question 9 not answered; BAM default formats (workshop/brand-folder.md)"
+}

@@ -1,0 +1,129 @@
+# Page 3 text (Design N Build Excellence brand guide)
+
+Every text layer on Figma Page 3 (node 33:2181), copied verbatim with its layer id, in file order. Source: https://www.figma.com/design/st3GvPdvO9YIol5LxASfaJ/Source-Architecture?node-id=33-2181
+
+- `33:2735` tone on tone pattern
+- `33:2742` line pattern
+- `33:2743` contrast pattern
+- `33:2747` GRAPHIC ELEMENTS
+- `33:2750` LARGE HEADLINE
+- `33:2752` Design & Build Excellence is an interior design institute built around the belief that meaningful design extends beyond ideas and is realised through making. The institute brings together creative thinking, technical knowledge, and practical execution through a hands-on, studio-driven approach to learning. With a focus on real-world application, students are encouraged to develop the ability to think, create, and build with purpose across residential, commercial, and retail environments. The brand represents an educational approach where structure and creativity work together, preparing students to move confidently from concept to execution and develop a deeper understanding of the spaces they create. The D\B mark represents the relationship between Design and Build, bringing the two disciplines together within a single, connected form. The diagonal slash acts as the point of connection between the D and B, reflecting the transition from an idea into something tangible.
+- `33:2753` EYEBROW TEXT
+- `33:2754` FOOTER TEXT
+- `33:2755` Eyebrow text 20pt DM Sans Regular
+- `33:2756` Large Heading 96pt Archivo Bold
+- `33:2757` Small Heading 40pt Archivo Medium
+- `33:2758` Body 24pt DM Sans Light
+- `33:2759` Subtext 16pt DM Sans Light
+- `33:2769` DM Sans is selected as the secondary typeface to complement Archivo with a clean, approachable, and highly functional character. Its simple forms and excellent readability make it well suited for longer text, supporting information, captions, course descriptions, and digital communication. While Archivo establishes the brand’s stronger visual presence through headings and display typography, DM Sans provides a quieter counterpoint that keeps information clear and accessible. This combination creates a balanced typographic system, pairing the structured and expressive character of the primary typeface with a neutral, contemporary voice that supports the brand across both educational and institutional applications.
+- `33:2770` DM Sans
+- `33:2771` Extralight
+- `33:2774` Thin
+- `33:2777` Regular
+- `33:2780` Semibold
+- `33:2783` ExtraBold
+- `33:2786` Black
+- `33:2792` Archivo was selected as the primary typeface for Design & Build Excellence for its clean, structured, and contemporary character. Its geometric construction and broad range of weights allow the typography to move between strong, expressive headlines and clear, functional information. This flexibility complements the brand’s Fluid Grid concept, balancing structure with adaptability. The typeface also supports the institute’s need to communicate across varied contexts, from course information and educational material to digital communication and institutional applications. Its straightforward character reinforces the brand’s focus on clarity, precision, and professionalism while allowing the more expressive colour and graphic language of the identity to take prominence.
+- `33:2793` Archivo
+- `33:2821` typography
+- `33:2902` Color Pairs to be used
+- `33:2931` Color Pairs to avoid
+- `33:2942` Lilac
+- `33:2943` plaster
+- `33:2944` apricot
+- `33:2948` marigold
+- `33:2949` charcoal
+- `33:2950` 30%
+- `33:2951` 25%
+- `33:2952` 15%
+- `33:2953` 10%
+- `33:2954` 8%
+- `33:2955` 7%
+- `33:2956` 3%
+- `33:2957` 2%
+- `33:2958` The identity is led by Lilac and Plaster, creating the primary visual foundation of the brand. Apricot and Marigold introduce moments of energy and emphasis, while Porcelain and Clay provide softer tonal variation. Charcoal and Graphite establish contrast and structure across typography, information and selected visual applications. Note - Colour ratios indicate the recommended visual hierarchy of the palette and are not intended as fixed percentages for every application. Typography & informational content may use Charcoal or Graphite independently of the stated ratios.
+- `33:2978` Plaster 2
+- `33:2979` HEX: #F2F2F2 RGB: 242 / 242 / 242 CMYK: 0 / 0 / 0 / 5
+- `33:2982` Marigold 2
+- `33:2983` HEX: #FBCF5E RGB: 251 / 207 / 94 CMYK: 0 / 18 / 63 / 2
+- `33:2986` Apricot 2
+- `33:2987` HEX: #FF9875 RGB: 255 / 152 / 117 CMYK: 0 / 40 / 54 / 0
+- `33:2990` Clay 2
+- `33:2991` HEX: #FFC9C9 RGB: 255 / 201 / 201 CMYK: 0 / 21 / 21 / 0
+- `33:2994` Charcoal 2
+- `33:2995` HEX: #000000 RGB: 0 / 0 / 0 CMYK: 0 / 0 / 0 / 100
+- `33:2998` Graphite 2
+- `33:2999` HEX: #4E4E4E RGB: 78 / 78 / 78 CMYK: 0 / 0 / 0 / 69
+- `33:3003` Procelain 2
+- `33:3004` HEX: #EEF7F8 RGB: 238 / 247 / 248 CMYK: 4 / 0 / 0 / 3
+- `33:3006` Lilac 2
+- `33:3007` HEX: #B595CF RGB: 181 / 149 / 207 CMYK: 13 / 28 / 0 / 19
+- `33:3019` Procelain
+- `33:3020` HEX: #E8F3F4 RGB: 232 / 243 / 244 CMYK: 5 / 0 / 0 / 4 Pantone: 9062 C
+- `33:3023` HEX: #BA9ED1 RGB: 186 / 158 / 209 CMYK: 11 / 24 / 0 / 18 Pantone: 2573 C
+- `33:3026` Plaster
+- `33:3027` HEX: #FFFFFF RGB: 255 / 255 / 255 CMYK: 0 / 0 / 0 / 0 Pantone: White C
+- `33:3030` Marigold
+- `33:3031` HEX: #FDD97E RGB: 253 / 217 / 126 CMYK: 0 / 14 / 50 / 1 Pantone: 2005 C
+- `33:3034` Apricot
+- `33:3035` HEX: #FF875F RGB: 255 / 135 / 95 CMYK: 0 / 47 / 63 / 0 Pantone: 1645 C
+- `33:3038` Clay
+- `33:3039` HEX: #FFDCDC RGB: 255 / 220 / 220 CMYK: 0 / 14 / 14 / 0 Pantone: 705 C
+- `33:3042` Charcoal
+- `33:3043` HEX: #262626 RGB: 38 / 38 / 38 CMYK: 0 / 0 / 0 / 85 Pantone: 426 C
+- `33:3046` Graphite
+- `33:3047` HEX: #393939 RGB: 57 / 57 / 57 CMYK: 0 / 0 / 0 / 78 Pantone: 447 C
+- `33:3052` color
+- `33:3056` instagram web
+- `33:3057` instagram/ social media icons
+- `33:3058` instagram mobile
+- `33:3059` 110px
+- `33:3060` 180px
+- `33:3076` Designnbuildexc..
+- `33:3077` Designnbuild.com
+- `33:3089` webpage favicon 32px
+- `33:3105` Icon > 32 px
+- `33:3106` Horizontal lockup > 250 px
+- `33:3107` Horizontal lockup 2 > 250 px
+- `33:3108` Vertical lockup > 150 px
+- `33:3109` Radial lockup > 200 px
+- `33:3169` The slash in the logo mark is to be used as a reference for all the logo spacing
+- `33:3184` combination mark vertical
+- `33:3188` combination mark radial
+- `33:3208` horizontaL LOCKUP
+- `33:3209` vERTICAL LOCKUP
+- `33:3210` ICON MARK/ WORDMARK
+- `33:3258` LOGO
+- `33:3261` The D\B mark represents the relationship between Design and Build, bringing the two disciplines together within a single, connected form. The diagonal slash acts as the point of connection between the D and B, reflecting the transition from an idea into something tangible. Its geometric construction gives the mark a sense of structure and precision, while the open relationship between its forms allows for interpretation and movement. This balance reflects the Fluid Grid concept that shapes the broader identity: a framework that provides structure while allowing ideas to adapt, evolve, and experiment. The mark therefore represents the institute's philosophy of learning through both design and making.
+- `33:3262` Letter D for Design
+- `33:3263` Letter B for Build
+- `33:3264` A slash for letter N
+- `33:3272` The logo ideation began by exploring the relationship between structure and flexibility within design. The moodboard references bring together contemporary identities that use bold typography, modular forms, distinctive colour systems, and adaptable graphic languages to create recognisable brands. These references helped establish a visual direction that feels confident, expressive, and contemporary while remaining rooted in structure. The exploration led to the Fluid Grid concept, where a defined framework can stretch, adapt, and evolve. This became the foundation for the D\B mark, combining the letters D and B through a shared geometric structure and diagonal connection, representing the relationship between design and build.
+- `33:3280` Design & Build Excellence is an interior design institute built around the belief that meaningful design extends beyond ideas and is realised through making. The institute brings together creative thinking, technical knowledge, and practical execution through a hands-on, studio-driven approach to learning. With a focus on real-world application, students are encouraged to develop the ability to think, create, and build with purpose across residential, commercial, and retail environments. The brand represents an educational approach where structure and creativity work together, preparing students to move confidently from concept to execution and develop a deeper understanding of the spaces they create.
+- `33:3289` ABOUT
+- `33:3293` 01
+- `33:3294` About
+- `33:3297` An overview of the brand and the ideation behind the logo concept
+- `33:3300` 06
+- `33:3301` Logo Usage
+- `33:3304` Do’s & Dont’s of the logo for consistency in logo usage
+- `33:3307` 02
+- `33:3308` Logo
+- `33:3311` Guidelines for logo usage, construction, spacing, minimum sizes, and approved variations.
+- `33:3314` 07
+- `33:3315` Stationery
+- `33:3318` Examples of how the identity is applied across communication print materials.
+- `33:3321` 03
+- `33:3322` Color
+- `33:3325` The primary and secondary color palettes and specifications for consistent application across.
+- `33:3328` 04
+- `33:3329` Typography
+- `33:3332` The typographic system, including primary and secondary typefaces, hierarchy, and usage rules.
+- `33:3335` 05
+- `33:3336` Graphic Elements
+- `33:3339` Custom patterns and graphic elements developed to support the brand’s visual language.
+- `33:3340` content
+- `33:3341` Usage Disclaimer This brand manual serves as a flexible framework for maintaining a consistent visual language across the brand. The guidelines are intended to provide direction rather than restrict creative application. Not every element needs to be followed rigidly across every communication, allowing room for context, experimentation, and evolution. However, specifications relating to technical requirements such as print dimensions, logo proportions, clear space, and file formats should be followed accurately to maintain consistency and functionality.
+- `33:3346` BRAND GUIDELINES
+- `33:3347` DESIGN N BUILD EXCELLENCE
+- `33:3348` 2026

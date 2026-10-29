@@ -1,0 +1,30 @@
+{
+  "contractVersion": "1.6",
+  "tokens": {
+    "--brand-paper": { "status": "derived", "source": "Plaster #FFFFFF, brand/sources/figma/p13-colour-primary.png; paper role read from brand/sources/figma/p15-colour-usage-hierarchy.png" },
+    "--brand-ink": { "status": "locked", "source": "supplied by the owner at intake (Charcoal #262626 as main text colour); hex from brand/sources/figma/p13-colour-primary.png" },
+    "--brand-accent": { "status": "derived", "source": "Lilac #BA9ED1, brand/sources/figma/p13-colour-primary.png; accent role read from brand/sources/figma/p15-colour-usage-hierarchy.png (Lilac 30%)" },
+    "--brand-accent-ink": { "status": "locked", "source": "supplied by the owner at intake (Charcoal text on Lilac)" },
+    "--brand-muted": { "status": "derived", "source": "Graphite #393939, brand/sources/figma/p13-colour-primary.png; muted role read from brand/sources/figma/page3-text.md" },
+    "--brand-accent-2": { "status": "derived", "source": "Apricot #FF875F, brand/sources/figma/p13-colour-primary.png; order from brand/sources/figma/p15-colour-usage-hierarchy.png" },
+    "--brand-accent-3": { "status": "derived", "source": "Marigold #FDD97E, brand/sources/figma/p13-colour-primary.png; order from brand/sources/figma/p15-colour-usage-hierarchy.png" },
+    "--brand-accent-4": { "status": "derived", "source": "Porcelain #E8F3F4, brand/sources/figma/p13-colour-primary.png" },
+    "--brand-accent-5": { "status": "derived", "source": "Clay #FFDCDC, brand/sources/figma/p13-colour-primary.png" },
+    "--brand-font-display": { "status": "locked", "source": "supplied by brand/sources/figma/p18-type-archivo.png (Archivo, primary typeface)" },
+    "--brand-font-body": { "status": "locked", "source": "supplied by brand/sources/figma/page3-text.md (DM Sans, secondary typeface)" },
+    "--brand-weight-display": { "status": "locked", "source": "supplied by brand/sources/figma/p20-type-hierarchy.png (Large Heading, Archivo Bold)" },
+    "--brand-weight-body": { "status": "locked", "source": "supplied by brand/sources/figma/p20-type-hierarchy.png (Body, DM Sans Light)" },
+    "--brand-weight-label": { "status": "locked", "source": "supplied by brand/sources/figma/p20-type-hierarchy.png (Eyebrow text, DM Sans Regular)" },
+    "--brand-tracking-display": { "status": "derived", "source": "not in the guide; normal spacing as seen in brand/sources/figma/p20-type-hierarchy.png" },
+    "--brand-radius": { "status": "derived", "source": "not in the guide; square shapes as seen in brand/sources/figma/p09-logo-variations.png" }
+  },
+  "assets": {
+    "logo.svg": { "sha256": "8c51b8d903d865f7e390290647c329dbe82cf2efff9696b9c9b77e979d15a94d", "status": "locked", "source": "brand/sources/figma/logo/logo-mark-graphite.svg, bytes unchanged" },
+    "logo-reversed.svg": { "sha256": "4a4955a63fd48b6c7fdbb687a7f7fe90aee87071bb7d715d4a863e7fd05d8119", "status": "locked", "source": "brand/sources/figma/logo/logo-mark-colour-on-charcoal.svg, bytes unchanged; chosen by the owner at intake as the second logo" }
+  },
+  "fonts": {
+    "source": "free",
+    "families": ["Archivo", "DM Sans"],
+    "status": "derived"
+  }
+}
