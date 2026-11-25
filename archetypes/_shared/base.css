@@ -193,6 +193,10 @@ html, body { margin: 0; background: transparent; }
   object-position: var(--pg-focal-x, 50%) var(--pg-focal-y, 50%);
 }
 
+/* Emphasis (1.7, additive): a slot whose schema sets "emphasis" turns *word* in the row into <em class="pg-em">. By
+   default it keeps the slot's face and style and takes the accent text colour; a layout may restyle it (an italic). */
+.pg-em { font-style: inherit; font-weight: inherit; color: var(--pg-accent-text); }
+
 /* Accent bar */
 .pg-bar { width: 0.4cqi; background: var(--pg-accent); border-radius: var(--brand-radius); }
 /* Text painted in the accent reads --pg-accent-text, which defaults to --pg-accent. A brand may
